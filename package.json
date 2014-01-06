@@ -1,0 +1,12 @@
+{
+  "name": "track",
+  "description": "Test cool",
+  "author": "todd.fisher at calltracking metrics dot com",
+  "main": "app.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "hiredis": "0.1.15",
+    "redis": "0.8.4"
+  },
+  "engines": {"node": ">=0.10.5"}
+}
